@@ -1,0 +1,8 @@
+{
+    "name": "Container 2",
+    "dockerComposeFile": ["../docker-compose.yml"],
+    "service": "container-2",
+    "shutdownAction": "none",
+    "extensions": ["dbaeumer.vscode-eslint"],
+    "workspaceFolder": "/workspace/container2-src"
+  }
